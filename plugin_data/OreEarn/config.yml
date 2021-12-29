@@ -1,0 +1,34 @@
+---
+# Do not edit the config version.
+cfg-version: 4
+
+# If you don't want to enable this plugin in a world add it to the ignoredWorlds list
+# Like that: ["exampleWorld1", "exampleWorld2", "exampleWorld3"]
+ignoredWorlds: []
+# Here you can disable ore drops in worlds
+# Example: ["mine1", "mine2"]
+ignoredDropWorlds: []
+# If true players gets an extra bonus with the enchantment "fortune" on the pickaxe.
+# Calc: earn * luckLevel
+# lucklevel: (1 + fortune level)
+fortuneBonus: true
+# If false the built-in fortune fix will be disabled.
+fortuneFix: true
+# If false players can earn money by breaking ores with silktouch
+ignoreSilktouch: true
+# If false players won't get an popup anymore by breaking an ore
+enablePopup: true
+
+# Earnings per Ore
+earnings:
+  stoneEarn: 0.05
+  quartzEarn: 2.5
+  coalEarn: 2.5
+  ironEarn: 3.5
+  redstoneEarn: 5
+  lapisEarn: 10
+  goldEarn: 25
+  diamondEarn: 50
+  emeraldEarn: 250
+...
+

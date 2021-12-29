@@ -1,0 +1,10 @@
+---
+fpvgamer:
+  current-vip: 20-04-30,10,VIPI
+khoa9090:
+  current-vip: 20-04-30,25,VIPV
+hungfa69:
+  current-vip: 20-04-30,10,VIPI
+  holding-vip:
+  - 120,VIPV
+...

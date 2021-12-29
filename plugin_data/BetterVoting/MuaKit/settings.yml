@@ -1,0 +1,80 @@
+﻿###########################################################################
+
+usage: "§aSử dụng:§f /muakit §r[giakit|kit1|kit2|kit3|kit4|kit5]"
+# Bảng giá Kit
+gia-kit-1: "§aKit (Dragon)§f -§b Giá: (200$)"
+gia-kit-2: "§aKit (Dragon-Bkack)§f -§b Giá: (300$)"
+gia-kit-3: "§aKit (Dragon-fire)§f -§b Giá: (400$)"
+gia-kit-4: "§aKit (Dragon-Ice)§f -§b Giá: (1500$)"
+gia-kit-5: "§aKit (Dragon-King)§f -§b Giá: (2000$)"
+
+# Các giá Kit
+kit1-costs: 200
+kit2-costs: 300
+kit3-costs: 400
+kit4-costs: 1500
+kit5-costs: 2000
+
+# Mua thành công - Thất bại
+mua-thanh-cong: "§aBạn đã mua thành công Kit"
+khong-du-tien: "§cMua thất bại, giá Kit: §a{tongtien}§c, bạn cần §e{sotiencan}§c point"
+
+# Custom của kit
+helmet1-name: "§c Mũ Dragon"
+chestplate1-name: "§c Áo Dragon"
+legging1-name: "§c Quần Dragon"
+boots1-name: "§c Giày Dragon"
+sword1-name: "§b Kiếm Dragon"
+helmet1-lore: "§cĐộ hiếm §l§e★★★"
+chestplate1-lore: "§cĐộ hiếm §l§e★★★"
+legging1-lore: "§cĐộ hiếm §l§e★★★"
+boots1-lore: "§cĐộ hiếm §l§e★★★"
+sword1-lore: "§cĐộ hiếm §l§e★★★"
+
+helmet2-name: "§e Mũ Dragon-Black"
+chestplate2-name: "§e Áo Dragon-Black"
+legging2-name: "§eQuần Dragon-Black"
+boots2-name: "§eGiày Dragon-Black"
+sword2-name: "§e Kiếm Dragon-Black"
+helmet2-lore: "§cĐộ hiếm §l§e★★★★"
+chestplate2-lore: "§cĐộ hiếm§l§e★★★★"
+legging2-lore: "§cĐộ hiếm §l§e★★★★"
+boots2-lore: "§cĐộ hiếm §l§e★★★★"
+sword2-lore: "§cĐộ hiếm §l§e★★★★"
+
+helmet3-name: "§6Mũ Dragon-Fire"
+chestplate3-name: "§6Áo Dragon-Fire"
+legging3-name: "§6 Quần Dragon-Fire"
+boots3-name: "§6 Giày Dragon-Fire"
+sword3-name: "§6 Kiếm Dragon-Fire"
+helmet3-lore: "§cĐộ hiếm §l§e★★★★"
+chestplate3-lore: "§cĐộ hiếm§l§e★★★★"
+legging3-lore: "§cĐộ hiếm §l§e★★★★"
+boots3-lore: "§cĐộ hiếm §l§e★★★★"
+sword3-lore: "§cĐộ hiếm §l§e★★★★"
+
+helmet4-name: "mũ Dragon-Ice"
+chestplate4-name: "Áo Dragon-Ice"
+legging4-name: "Quần Dragon-Ice"
+boots4-name: "Giày Dragon-Ice"
+sword4-name: "Kiếm Dragon-Ice"
+bow4-name: "Cung Dragon-Ice"
+helmet4-lore: "§cĐộ hiếm §l§e★★★★★"
+chestplate4-lore: "§cĐộhiếm§l§e★★★★★"
+legging4-lore: "§cĐộ hiếm §l§e★★★★★"
+boots4-lore: "§cĐộ hiếm §l§e★★★★★"
+sword4-lore: "§cĐộ hiếm §l§e★★★★★"
+bow4-lore: "§cĐộ hiếm §l§e★★★★★"
+
+helmet5-name: "§l§bMũ Dragon-§eKing"
+chestplate5-name: "§l§bÁo Dragon§eKing"
+legging5-name: "§l§bQuần Dragon-§eKing"
+boots5-name: "§l§bGiày Dragon-§eKing"
+sword5-name: "§b§lKiếm Dragon-§eKing"
+bow5-name: "§l§bCung Dragon-§eKing"
+helmet5-lore: "§cĐộ hiếm §l§e★★★★★★"
+chestplate5lore: "§cĐộhiếm§l§e★★★★★★"
+legging5-lore: "§cĐộhiếm§l§e★★★★★★"
+boots5-lore: "§cĐộhiếm§l§e★★★★★★"
+sword5-lore: "§cĐộhiếm§l§e★★★★★★"
+bow5-lore: "§cĐộhiếm§l§e★★★★★★"

@@ -1,0 +1,24 @@
+# Cost Heal Feed #
+
+heal.cost: 5000
+feed.cost: 5000
+
+# For the Exit button #
+
+cancelled: "•§e Bạn đã thoát khỏi menu"
+
+# HEAL Messages #
+
+heal.content: "• §aBạn Sẽ Được Hồi Full Thanh Máu Với Giá 5K Xu! Vui lòng nhấn Xác nhận nếu bạn muốn Hồi §bMáu"
+heal.success: "• §bBạn Đã Hồi Thành Công Máu"
+heal.no.money: "• §eBạn Không Đủ Điều Kiện Để Hồi Máu"
+heal.cancelled: "• §aBạn Đã Hủy Hồi Máu"
+
+# FEED Messages #
+
+feed.content: "• §aBạn Sẽ Được Hồi Full Thanh Đói Với Giá 5K Xu! Vui lòng nhấn Xác nhận nếu bạn muốn Hồi §bĐói"
+feed.success: "• §bBạn Đã Hồi Thành Công Thanh Đói"
+feed.no.money: "• §eBạn Không Đủ Điều Kiện Để Hồi Thanh Đói"
+feed.cancelled: "• §aBạn Đã Hủy Hồi Thanh Đói"
+
+...

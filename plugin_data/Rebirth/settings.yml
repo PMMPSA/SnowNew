@@ -1,0 +1,20 @@
+########################################################
+
+# Giá 1 lần rebirth!
+rebirth-costs: 10000000
+
+# Không đủ tiền
+not-enough-money: "§cBạn không có đủ tiền để rebirth! Cần§f {sotienrebirth} xu"
+
+# Rebirth thành công
+rebirth-thanh-cong: "§aBạn đã rebirth thành công! +1 lần Rebirth!"
+
+# Form
+form-title: "§c§lRebirth Menu§r"
+form-content: "§aSố lần rebirth của bạn:§e {solanrebirth}"
+exit-msg: "§c§lThoát§r"
+rebirth-button: "§a§l Rebirth ngay§r"
+
+# Top Form
+top-title: "§c§lTop Rebirth"
+exit-top: "§c§lThoát"

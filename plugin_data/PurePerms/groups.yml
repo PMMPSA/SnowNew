@@ -1,0 +1,133 @@
+---
+Guest:
+  alias: gst
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - mw.cmd.teleport
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pperms.command.ppinfo
+  worlds: []
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - essentials.gamemode
+  - pocketmine.broadcast
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  worlds: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - essentials
+  - pocketmine.command
+  - pperms.command
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  worlds: []
+Police:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - flyui.command
+  - freeze
+  - freeze.command
+  - freeze.immune
+  - l
+  - mw.cmd.teleport
+  - pocketmine.command.ban
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  worlds: []
+VIPI:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - mw.cmd.teleport
+  worlds: []
+VIPII:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - mw.cmd.teleport
+  - pocketmine.command.teleport
+  worlds: []
+VIPIII:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - flyui.command
+  - mw.cmd.teleport
+  - pocketmine.command.teleport
+  - sizeui
+  - sizeui.use
+  worlds: []
+VIPIV:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - flyui.command
+  - mw.cmd.teleport
+  - pocketmine.command.teleport
+  - sizeui
+  - sizeui.use
+  worlds: []
+VIPV:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - flyui.command
+  - hieuungui
+  - hieuungui.break
+  - hieuungui.breathing
+  - hieuungui.clear
+  - hieuungui.command
+  - hieuungui.damage
+  - hieuungui.fire
+  - hieuungui.help
+  - hieuungui.jump
+  - hieuungui.night
+  - hieuungui.version
+  - mw.cmd.teleport
+  - pocketmine.command.teleport
+  - sizeui
+  - sizeui.use
+  worlds: []
+Builder:
+  alias: ""
+  inheritance: []
+  permissions:
+  - mw.cmd.teleport
+  worlds: []
+  isDefault: true
+Helper:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - mw.cmd.teleport
+  worlds: []
+...

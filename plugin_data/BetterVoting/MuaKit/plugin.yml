@@ -1,0 +1,33 @@
+name: MuaKit
+main: ThinkerS\MuaKit
+version: 1.0.0
+api: 3.0.0
+author: ThinkerS
+commands:
+  muakit:
+   description: Lệnh Mua Kit
+   default: true
+  kiteffect:
+   description: Lấy lại Kit Effect
+   default: true
+permissions:
+ kit1.use:
+  default: false
+ kit2.use:
+  default: false
+ kit3.use:
+  default: false
+ kit4.use:
+  default: false
+ kit5.use:
+  default: false
+ kit1.effect:
+  default: false
+ kit2.effect:
+  default: false
+ kit3.effect:
+  default: false
+ kit4.effect:
+  default: false
+ kit5.effect:
+  default: false

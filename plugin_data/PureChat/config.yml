@@ -1,0 +1,84 @@
+---
+version: 1.4.10-6
+default-factions-plugin: FactionsPro
+enable-multiworld-chat: false
+groups:
+  Guest:
+    chat: '[{fac_name}] §d[ღMεмbεɾღ] §6•{display_name} §f>> {msg}'
+    nametag: §l[Member] §6•{display_name}•
+    worlds: []
+  Admin:
+    chat: §l§b[{fac_name}] §l§c⭐↪ Admin ↩⭐ §e<[{display_name}]> -> §b{msg}
+    nametag: '&a[Admin]&e {fac_rank}{fac_name} &6{display_name}'
+    worlds: []
+  Owner:
+    chat: §l§3❄☺[§aO§cw§bn§fe§er§3]☺❄ ☀❤●§c{display_name}§3•❤☀ §e>> §o§6{msg}
+    nametag: '&d[Owner]&c {fac_rank}{fac_name} &b{display_name}'
+    worlds: []
+  OP:
+    chat: §d§l•[{fac_name}] §b•<<§cOP§b>>• §a [ {display_name}] --> §d[ {msg} ]
+    nametag: '&a[OP] &c{fac_rank}{fac_name} &b{display_name}'
+    worlds: []
+  Helper:
+    chat: §e[{fac_name}] §c§l✦••┈┈┈•§bＨ§eｅ§cｌ§dｐ§aｅ§6ｒ§c✦••┈┈┈• §o{display_name}§e
+      → §r§d{msg}
+    nametag: '&8&l[Helper]&f&r {display_name}'
+  Police:
+    nametag: '&8&l[Police]&f&r {display_name}'
+    chat: §l§d[{fac_name}] §c[ミ★Cảηɦ§bʂáт★彡] §e•{display_name} >> §a{msg}
+  Vip4:
+    chat: §l§a[{fac_name}] §l§d[VIP-4] §l§a[{display_name}] --> §6{msg}
+  Vip3:
+    chat: §l§a[{fac_name}] §l§d[VIP-3] §l§a[{display_name}] --> §6{msg}
+  Vip2:
+    chat: §l§a[{fac_name}] §l§d[VIP-2] §l§a[{display_name}] --> §6{msg}
+  Vip5:
+    chat: §l§a[{fac_name}] §l§d[VIP-5] §l§a[{display_name}] --> §6{msg}
+    nametag: '&8&l[Vip5]&f&r {display_name}'
+  Vip1:
+    nametag: '&8&l[Vip1]&f&r {display_name}'
+    chat: §b§l[{fac_name}] §d↘⭐§cV§aI§eP§61§d⭐↙ | §e↪[{display_name}]↩ >> §b§o{msg}
+  MVP:
+    chat: §l§d•[{fac_name}] §4•M§e•V§1•P§5• §3>°•{display_name}•°< §a--> §6{msg}
+    nametag: '&8&l[MVP]&f&r {display_name}'
+  Builder:
+    chat: §e[{fac_name}] §c§l•┈┈┈••✦§bＢ§eｕ§cｉ§dｄ§aｅ§6ｒ§c✦••┈┈┈• §o{display_name}§e
+      → §r§d{msg}
+    nametag: §l§d•[{fac_name}] §e♤♤B§4u§3i§al§1d§6e§dr♤♤ §k§3•{display_name}•
+  Vip:
+    nametag: '&8&l[Vip]&f&r {display_name}'
+    chat: '&8&l[Vip]&f&r {display_name} &7> {msg}'
+  Gay:
+    chat: §l§dGay [{display_name}] |>>> {msg}
+    nametag: '&8&l[Gay]&f&r {display_name}'
+  đỉgay:
+    nametag: '&8&l[đỉgay]&f&r {display_name}'
+    chat: '&8&l[đỉgay]&f&r {display_name} &7> {msg}'
+  Vote:
+    chat: '§l[§b{fac_name}§r§l] [Member§dS§es§r§l] §5{display_name} §r§l: {msg}'
+    nametag: '&8&l[Vote]&f&r {display_name}'
+  VIPI:
+    nametag: §l§c♡VIP§eI§c♡ §4▪§a{display_name}▪
+    chat: §e•[{fac_name}] §r§l ꧁༺๖ۣۜVเᎮI ༻꧂ §e{display_name} §6---> §b{msg}
+  VIPIV:
+    chat: §e§l•[{fac_name}] §d§l༺๖ۣۜVเᎮIV༻ §b[{display_name}] -> §e{msg}
+    nametag: '&8&l[VIPIV]&f&r {display_name}'
+  VIPII:
+    chat: §e§l•[{fac_name}] §d§l༺๖ۣۜVเᎮII༻ §b[{display_name}] -> §e{msg}
+    nametag: '&8&l[VIPII]&f&r {display_name}'
+  VIPIII:
+    chat: §e§l•[{fac_name}] §d§l༺๖ۣۜVเᎮIII༻ §b[{display_name}] -> §e{msg}
+    nametag: '&8&l[VIPIII]&f&r {display_name}'
+  VIPV:
+    chat: §e§l•[{fac_name}] §d§l༺๖ۣۜVเᎮV༻ §b[{display_name}] -> §e{msg}
+    nametag: '&8&l[VIPV]&f&r {display_name}'
+  TheKing:
+    nametag: '&8&l[TheKing]&f&r {display_name}'
+    chat: §l§e[{fac_name}] §a[The§bKing] | §d[{display_name}] >>§o§c {msg}
+  Resener:
+    nametag: '&8&l[Resener]&f&r {display_name}'
+    chat: '&8&l[Resener]&f&r {display_name} &7> {msg}'
+  tùnhân:
+    nametag: '&8&l[tùnhân]&f&r {display_name}'
+    chat: '&8&l[tùnhân]&f&r {display_name} &7> {msg}'
+...

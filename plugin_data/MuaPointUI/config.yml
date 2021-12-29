@@ -1,0 +1,71 @@
+# - Rank Cost Configuration -
+
+group1.cost: 200000
+group2.cost: 400000
+group3.cost: 600000
+group4.cost: 800000
+group5.cost: 1000000
+
+# -= Rank Purchase / Fail Configuration =-
+
+group1.complete: §aBạn đã mua 2 Point
+group1.failed: §cBạn không đủ xu để mua 2 Point
+
+group2.complete: §aBạn đã mua 4 Point
+group2.failed: §cBạn không đủ xu để mua 4 Point
+
+group3.complete: §aBạn đã mua 6 Point
+group3.failed: §cBạn không đủ xu để mua 6 Point
+
+group4.complete: §aBạn đã mua 8 Point
+group4.failed: §cBạn không đủ xu để mua 8 Point
+
+group5.complete: §aBạn đã mua 10 Point
+group5.failed: §cBạn không đủ xu để mua 10 Point
+
+# -= Content Configuration -=
+
+group1.info: Mua 2 Point với giá 200000
+group2.info: Mua 4 Point với giá 400000
+group3.info: Mua 6 Point với giá 600000
+group4.info: Mua 8 Point với giá 800000
+group5.info: Mua 10 Point với giá 1000000
+
+# -= Others Configuration =-
+ 
+title.muapoint: §e༄༂§d=§4-§bMuaPoint§4-§d=§e༂࿐
+
+othermsg1complete.txt: 2 Point
+othermsg2complete.txt: 4 Point
+othermsg3complete.txt: 6 Point
+othermsg4complete.txt: 8 Point
+othermsg5complete.txt: 10 Point
+
+othermsg1fail.txt: Mua Không Được 2 Point
+othermsg2fail.txt: Mua Không Được 4 Point
+othermsg3fail.txt: Mua Không Được 6 Point
+othermsg4fail.txt: Mua Không Được 8 Point
+othermsg5fail.txt: Mua Không Được 10 Point
+
+purchase1.title: §bĐã Mua
+purchase2.title: §bĐã Mua
+purchase3.title: §bĐã Mua
+purchase4.title: §bĐã Mua
+purchase5.title: §bĐã Mua
+
+group1.name: §aMua 2 Point
+group2.name: §aMua 4 Point
+group3.name: §aMua 6 Point
+group4.name: §aMua 8 Point
+group5.name: §aMua 10 Point
+
+# Features Configuration
+# Shows a list of features of the rank. Edit it here
+
+group1.features: §eCảm Ơn Bạn Đã Mua 2 Point
+group2.features: §eCảm Ơn Bạn Đã Mua 4 Point
+group3.features: §eCảm Ơn Bạn Đã Mua 6 Point
+group4.features: §eCảm Ơn Bạn Đã Mua 8 Point
+group5.features: §eCảm Ơn Bạn Đã Mua 10 Point
+
+...

@@ -1,0 +1,6 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0040B2C8
+eax=520001C0 ebx=0000004E ecx=0000BE99 edx=8004BF18 esi=0000003A edi=00000000
+ebp=D0000000 esp=0028A2DD program=C:\Users\khang\Desktop\PocketMineNew\bin\mintty.exe, pid 4148, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
